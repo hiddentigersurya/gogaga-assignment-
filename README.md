@@ -1,2 +1,2 @@
-To see the responsive output
-bgogaga.ccbp.tech
+To see the responsive output go through this link
+(bgogaga.ccbp.tech)
